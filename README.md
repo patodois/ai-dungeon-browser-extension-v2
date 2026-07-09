@@ -7,6 +7,9 @@
 
 A browser extension that enhances your AI Dungeon experience with story cards, visual overlays, audio effects, and text formatting.
 
+> [!NOTE]
+> This fork applies the DOM selector fix from [upstream PR #3](https://github.com/clauds-clauds/ai-dungeon-browser-extension-v2/pull/3), so the extension works again after the June 2026 AI Dungeon site update. Download the fixed build (v1.0.7) from this fork's [Releases](https://github.com/patodois/ai-dungeon-browser-extension-v2/releases) page. All credit for the extension goes to [clauds-clauds](https://github.com/clauds-clauds), and for the fix to [bobneumann77-hub](https://github.com/bobneumann77-hub).
+
 ## Installation
 
 ### Chrome
